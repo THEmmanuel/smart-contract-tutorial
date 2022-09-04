@@ -17,7 +17,7 @@ module.exports = {
 			accounts: [`0x${PRIVATE_KEY}`]
 		},
 		// Add Polygon Mumbai network
-		Mumbai: {
+		mumbai: {
 			url: ALCHEMY_API_URL_MUMBAI,
 			accounts: [`0x${PRIVATE_KEY}`]
 		},
